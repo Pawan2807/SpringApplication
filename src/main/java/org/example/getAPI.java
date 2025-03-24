@@ -9,6 +9,6 @@ public class getAPI {
     @GetMapping("/get")
     public String helloWorld() {
 //        return GetFeatureJsonFromGit("https://github.com/gem-maulickbharadwaj/JewelAutomationBdd-master", "master").toString();
-    return "hello";
+    return "hello this is pipepline running test";
     }
 }
